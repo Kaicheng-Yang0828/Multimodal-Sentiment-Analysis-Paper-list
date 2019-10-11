@@ -12,9 +12,11 @@ https://www.aclweb.org/anthology/D18-1280
 Code for 2、3:https://github.com/SenticNet/multimodal-fusion
 
 4、Tensor Fusion Network for Multimodal Sentiment Analysis(EMNLP 2017)
+
 Code for 4:https://github.com/Justin1904/TensorFusionNetworks
 
-5、Multimodal Transformer for Unaligned Multimodal Language Sequences
+5、Multimodal Transformer for Unaligned Multimodal Language Sequences(ACL 2019)
+
 Code for 5:https://github.com/yaohungt/Multimodal-Transformer
 
 ## Multi-task Sentiment analysis
