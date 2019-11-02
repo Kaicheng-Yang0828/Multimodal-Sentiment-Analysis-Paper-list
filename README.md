@@ -19,13 +19,38 @@ Code for 4:https://github.com/Justin1904/TensorFusionNetworks
 
 Code for 5:https://github.com/yaohungt/Multimodal-Transformer
 
-6、Multimodal Sentiment Analysis withWord-Level Fusion andReinforcement Learning
+6、Memory Fusion Network for Multi-view Sequential Learning(AAAI 2018)
 
-Code for 6:https://drive.google.com/file/d/1_tnAUf9o2RGq2e5yOCT8cqIElOSKwiBh/view
+Code for 6:https://github.com/pliang279/MFN
 
-7、Memory Fusion Network for Multi-view Sequential Learning(AAAI 2018)
+## Multimodal BERT
+1、VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV2019)
 
-Code for 7:https://github.com/pliang279/MFN
+2、ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks (NeurIPS2019)
+
+3、VisualBERT: A Simple and Performant Baseline for Vision and Language
+
+4、Selfie: Self-supervised Pretraining for Image Embedding
+
+5、Contrastive Bidirectional Transformer for Temporal Representation Learning
+
+6、M-BERT: Injecting Multimodal Information in the BERT Structure
+
+7、LXMERT: Learning Cross-Modality Encoder Representations from Transformers (EMNLP2019)
+
+8、Fusion of Detected Objects in Text for Visual Question Answering (EMNLP2019)
+
+9、Unified Vision-Language Pre-Training for Image Captioning and VQA 
+
+Code for 9：https://github.com/LuoweiZhou/VLP
+
+10、VL-BERT: Pre-training of Generic Visual-Linguistic Representations
+
+11、Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training
+
+12、UNITER: Learning UNiversal Image-TExt Representations
+
+13、SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end Spoken Question Answering
 
 ## Multi-task Sentiment analysis
 Attention-augmented end-to-end multi-task learning for emotion prediction from speech.
