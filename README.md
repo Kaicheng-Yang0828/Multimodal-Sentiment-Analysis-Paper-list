@@ -52,6 +52,10 @@ Code for 9：https://github.com/LuoweiZhou/VLP
 
 13、SpeechBERT: Cross-Modal Pre-trained Language Model for End-to-end Spoken Question Answering
 
+14、Multimodal Transformer for Unaligned Multimodal Language Sequences
+
+Code for 14:https://github.com/yaohungt/Multimodal-Transformer
+
 ## Multi-task Sentiment analysis
 Attention-augmented end-to-end multi-task learning for emotion prediction from speech.
 https://arxiv.org/pdf/1903.12424.pdf
