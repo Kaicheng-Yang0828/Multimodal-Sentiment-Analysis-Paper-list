@@ -19,6 +19,14 @@ Code for 4:https://github.com/Justin1904/TensorFusionNetworks
 
 Code for 5:https://github.com/yaohungt/Multimodal-Transformer
 
+6、Multimodal Sentiment Analysis withWord-Level Fusion andReinforcement Learning
+
+Code for 6:https://drive.google.com/file/d/1_tnAUf9o2RGq2e5yOCT8cqIElOSKwiBh/view
+
+7、Memory Fusion Network for Multi-view Sequential Learning(AAAI 2018)
+
+Code for 7:https://github.com/pliang279/MFN
+
 ## Multi-task Sentiment analysis
 Attention-augmented end-to-end multi-task learning for emotion prediction from speech.
 https://arxiv.org/pdf/1903.12424.pdf
