@@ -23,6 +23,14 @@ Code for 5:https://github.com/yaohungt/Multimodal-Transformer
 
 Code for 6:https://github.com/pliang279/MFN
 
+7、FACTORIZED MULTIMODAL TRANSFORMER FOR MULTIMODAL SEQUENTIAL LEARNING
+
+Code for 7:https://github.com/A2Zadeh/Factorized-Multimodal-Transformer(release April 15th, 2020)
+
+8、Multimodal Transformer for Unaligned Multimodal Language Sequences(ACL 2019)
+
+Code for 8:https://github.com/yaohungt/Multimodal-Transformer
+
 ## Multimodal BERT
 1、VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV2019)
 
