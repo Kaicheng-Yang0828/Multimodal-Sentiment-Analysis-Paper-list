@@ -65,5 +65,18 @@ Code for 9：https://github.com/LuoweiZhou/VLP
 Code for 14:https://github.com/yaohungt/Multimodal-Transformer
 
 ## Multi-task Sentiment analysis
-Attention-augmented end-to-end multi-task learning for emotion prediction from speech.
+1、Attention-augmented end-to-end multi-task learning for emotion prediction from speech.
+
 https://arxiv.org/pdf/1903.12424.pdf
+
+2、Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis.
+
+https://arxiv.org/pdf/1905.05812.pdf
+
+3、Multi-task Learning for Target-dependent Sentiment Classification.
+
+https://arxiv.org/pdf/1902.02930.pdf
+
+4、Sentiment and Sarcasm Classification with Multitask Learning.
+
+https://sentic.net/sentiment-and-sarcasm-classification-with-multitask-learning.pdf
