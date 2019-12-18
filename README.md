@@ -31,6 +31,11 @@ Code for 7:https://github.com/A2Zadeh/Factorized-Multimodal-Transformer(release 
 
 Code for 8:https://github.com/yaohungt/Multimodal-Transformer
 
+9、Multimodal Sentiment Analysis using Hierarchical Fusion with Context Modeling
+
+Code for 9:https://github.com/SenticNet/hfusion
+
+
 ## Multimodal BERT
 1、VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV2019)
 
