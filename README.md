@@ -35,6 +35,10 @@ Code for 8:https://github.com/yaohungt/Multimodal-Transformer
 
 Code for 9:https://github.com/SenticNet/hfusion
 
+10、Found in Translation: Learning Robust Joint Representations by Cyclic Translations Between Modalities(2019 AAAI)
+
+Code for 10:https://github.com/hainow/MCTN
+
 
 ## Multimodal BERT
 1、VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV2019)
