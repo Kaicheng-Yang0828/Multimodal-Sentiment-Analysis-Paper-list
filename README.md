@@ -1,5 +1,5 @@
 # Paper-list
-From September 27, 2019, all future readings will be recorded in the document.
+From September 27, 2019, all future readings will be recorded in the document. Because I will graduate soon, there are many things to do, so the update is slow. After a period of time, I will organize all papers in a large scale during my graduate study
 
 ## Multimodal Sentiment analysis
 1、ICON: Interactive Conversational Memory Network for Multimodal Emotion Detection
@@ -86,7 +86,7 @@ Code for 14:https://github.com/yaohungt/Multimodal-Transformer
 
 Code for 15:https://github.com/WasifurRahman/BERT_multimodal_transformer
 
-16、CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis(2020 ACMMM，我自己的论文，有问题可以留言)
+16、CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis(2020 ACMMM，ours)
 
 Code for 16:https://github.com/thuiar/Cross-Modal-BERT
 
