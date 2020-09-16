@@ -39,6 +39,15 @@ Code for 9:https://github.com/SenticNet/hfusion
 
 Code for 10:https://github.com/hainow/MCTN
 
+11、Words Can Shift:Dynamically AdjustingWord Representations Using Nonverbal Behaviors(2019 AAAI)
+
+Code for 11:https://github.com/victorywys/RAVEN
+
+12、A Transformer-based joint-encoding for Emotion Recognition and Sentiment Analysis(2020 ACL workshop)
+
+Code for 12:https://github.com/jbdel/MOSEI_UMONS
+
+13、Low Rank Fusion based Transformers for Multimodal Sequences(2020 ACL workshop)
 
 ## Multimodal BERT
 1、VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV2019)
@@ -72,6 +81,14 @@ Code for 9：https://github.com/LuoweiZhou/VLP
 14、Multimodal Transformer for Unaligned Multimodal Language Sequences
 
 Code for 14:https://github.com/yaohungt/Multimodal-Transformer
+
+15、Integrating Multimodal Information in Large Pretrained Transformers(2020 ACL)
+
+Code for 15:https://github.com/WasifurRahman/BERT_multimodal_transformer
+
+16、CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis(2020 ACMMM，我自己的论文，有问题可以留言)
+
+Code for 16:https://github.com/thuiar/Cross-Modal-BERT
 
 ## Multi-task Sentiment analysis
 1、Attention-augmented end-to-end multi-task learning for emotion prediction from speech.
