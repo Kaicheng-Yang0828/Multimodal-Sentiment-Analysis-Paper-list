@@ -49,6 +49,10 @@ Code for 12:https://github.com/jbdel/MOSEI_UMONS
 
 13、Low Rank Fusion based Transformers for Multimodal Sequences(2020 ACL workshop)
 
+14、Quantum Cognitively Motivated Decision Fusion for Video Sentiment Analysis(AAAI2021)
+
+15、Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis(AAAI2021)
+
 ## Multimodal BERT
 1、VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV2019)
 
@@ -106,3 +110,9 @@ https://arxiv.org/pdf/1902.02930.pdf
 4、Sentiment and Sarcasm Classification with Multitask Learning.
 
 https://sentic.net/sentiment-and-sarcasm-classification-with-multitask-learning.pdf
+
+## Missing Modality
+
+1、SMIL: Multimodal Learning with Severely Missing Modality(2021 AAAI)
+
+Code for 1:https://github.com/mengmenm/SMIL
