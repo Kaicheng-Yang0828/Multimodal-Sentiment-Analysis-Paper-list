@@ -53,6 +53,12 @@ Code for 12:https://github.com/jbdel/MOSEI_UMONS
 
 15、Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis(AAAI2021)
 
+16、Quantum Cognitively Motivated Decision Fusion for Video Sentiment Analysis(AAAI2021)
+
+17、An Entanglement-driven Fusion Neural Network for Video Sentiment Analysis(IJCAI2021)
+
+18、Quantum-inspired Neural Network for Conversational Emotion Recognition(AAAI2021)
+
 ## Multimodal BERT
 1、VideoBERT: A Joint Model for Video and Language Representation Learning (ICCV2019)
 
